@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\projeto .net\\DigitalInnovationOne\\Desafios\\DIO.Bank\\DIO.Bank.csproj": {}
+    "C:\\Dev\\projeto .net\\DigitalInnovationOne\\Desafios\\DIO.Series\\DIO.Series.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\projeto .net\\DigitalInnovationOne\\Desafios\\DIO.Bank\\DIO.Bank.csproj": {
+    "C:\\Dev\\projeto .net\\DigitalInnovationOne\\Desafios\\DIO.Series\\DIO.Series.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\projeto .net\\DigitalInnovationOne\\Desafios\\DIO.Bank\\DIO.Bank.csproj",
-        "projectName": "DIO.Bank",
-        "projectPath": "C:\\Dev\\projeto .net\\DigitalInnovationOne\\Desafios\\DIO.Bank\\DIO.Bank.csproj",
+        "projectUniqueName": "C:\\Dev\\projeto .net\\DigitalInnovationOne\\Desafios\\DIO.Series\\DIO.Series.csproj",
+        "projectName": "DIO.Series",
+        "projectPath": "C:\\Dev\\projeto .net\\DigitalInnovationOne\\Desafios\\DIO.Series\\DIO.Series.csproj",
         "packagesPath": "C:\\Users\\Ivia\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\projeto .net\\DigitalInnovationOne\\Desafios\\DIO.Bank\\obj\\",
+        "outputPath": "C:\\Dev\\projeto .net\\DigitalInnovationOne\\Desafios\\DIO.Series\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ivia\\AppData\\Roaming\\NuGet\\NuGet.Config"
